@@ -1,0 +1,12 @@
+{
+  "name": "My Telegram App",
+  "short_name": "My App",
+  "description": "A brief description of my app",
+  "version": "1.0",
+  "author": "Your Name",
+  "permissions": ["messages", "contacts"],
+  "tg": {
+    "api_id": "YOUR_API_ID",
+    "api_hash": "YOUR_API_HASH"
+  }
+}
